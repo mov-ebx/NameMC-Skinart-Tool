@@ -6,7 +6,7 @@ This is a Python script that splits up a 72x24 image into 26 Minecraft skins you
 
 ## ⚠️ Alternatives
 
-I started this after my friend showed off some of his skinart to me, and I wnated to make a program to help me make my own!
+I started this after my friend showed off some of his skinart to me, and I wanted to make a program to help me make my own!
 
 > [Thomas.GG](https://thomas.gg/)
 
